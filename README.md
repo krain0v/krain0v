@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krain0v
+- 👋 Hi, I’m Daniil Markov, @krain0v a.k.a krraify
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning Ruby and Ruby On Rails
 - 📫 How to reach me krraify@yandex.ru
